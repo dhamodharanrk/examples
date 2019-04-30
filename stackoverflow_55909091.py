@@ -1,3 +1,6 @@
+# QUESTION : How can I parse a div and get every <strong> tag content in different rows?
+# LINK : https://stackoverflow.com/questions/55909091/how-can-i-parse-a-div-and-get-every-strong-tag-content-in-different-rows
+
 from  bs4 import BeautifulSoup
 soup_chunk = '''<div class="opskriften">
 <p class="h3">Ingrediensliste</p>

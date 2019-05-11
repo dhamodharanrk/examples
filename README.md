@@ -1,1 +1,1 @@
-Stack Overflow is a question and answer site for professional and enthusiast programmers
+Its a collection of sample codes written for stackoverflow and others

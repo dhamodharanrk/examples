@@ -27,4 +27,5 @@ for tr_tags in table_chunk.find_all('tr'):
 df = pd.DataFrame(table_data[1:],columns=table_data[0])
 df.Robert = df.Robert.astype(int) + 10
 df.to_csv("DataExport.csv",index=False)
+df.to_csv("DataExport_withoutheader.csv",index=False,header=False)
 

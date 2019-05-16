@@ -9,3 +9,8 @@ python -m pip install --user --upgrade twine
 python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 
 python -m twine upload dist/*
+
+
+Refference:
+
+https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56

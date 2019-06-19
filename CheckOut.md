@@ -1,8 +1,34 @@
 https://jekyller.github.io/PanelCV/#
-https://vidhyav656.github.io/startbootstrap-stylish-portfolio-jekyll/
 
-https://jekyll-themes.com/agency-jekyll-theme/
+
+# Selected
+
+For tutorials/ search engine
+
+https://jekyll-themes.com/base/
+
+
+documentations
+https://jekyll-themes.com/jekyll-documentation/
+
+
+slidshow
+https://jekyll-themes.com/slides/
+
+
+for Books
+
+https://patdryburgh.github.io/hitchens/
+
+
+for CV
 
 https://jekyll-themes.com/online-cv/
 
-https://patdryburgh.github.io/hitchens/
+
+for Frelance site
+https://wowthemesnet.github.io/mundana-theme-jekyll/
+
+
+front page
+https://jekyll-themes.com/particle/

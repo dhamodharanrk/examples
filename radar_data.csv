@@ -1,93 +1,93 @@
-Technology Name,Impact Score,Impact
-Accelerated Chemical Reaction Optimization Using Multi-Task Learning,0.0,assess
-Advanced hydrogel kits and bioink formulations for stem cell therapy,20.91168,trial
-AI-directed formulation Screening/prediction platform,2.33568,assess
-Amino Acid Analysis,28.338429999999995,trial
-Antibacterial Bio-Inspired Reagents,7.75017,trial
-Antibody drug conjugates and linkers,204.09578,adopt
-Antibody purification ,70.3188,adopt
-Antisense technology,274.4433,adopt
-Automation of laboratory procedures,3.06765,assess
-Biocatalysis,262.99404,adopt
-Blockchain technology,3606.9645400000004,adopt
-Catalyst screening for customers ,12.506699999999999,trial
-Cell and Gene therapy QA,21.61225,trial
-Chiral columns technology/separation,30.314689999999995,trial
-Commercialized Pillar array HPLC technology,1.5779999999999998,assess
-Copper free click chemistry based hydrogel reagents and kits,17.096999999999998,trial
-Cryo-electron microscopy,351.04889000000003,adopt
-"Data Sharing in Chemistry, Mandating Structured Reaction Data",36.38878,trial
-Designer receptors exclusively activated by designer drugs=DREADD,103.245,adopt
-deuterated CRMs,0.0,assess
-Digital read out of reactive papers (strips),0.85503,assess
-Direct MS,1.22095,assess
-DNA-encoded library(DEL),34.34519000000001,trial
-Dugital Twin for the Pharmacetical Industry/Drug discovery/Fine chemical,6.300350000000001,trial
-Emerging battery materials,262.34599999999995,adopt
-Enzymetic reaction/Enzyme Technology,107.70228,adopt
-Food CRMs,15.8877,trial
-Formulation of pyrophoric reagents  ,3.9248,trial
-FTIR,365.8728300000001,adopt
-Gas Chromatography/multiple detectors,0.48995,assess
-Green Hydrogen,1522.80202,adopt
-Green solvents alternatives in battery manufacturing,4.0065,trial
-High Throughput Screening,698.8974000000001,adopt
-Homogeneous Time Resolved Fluorescence,23.27352,trial
-HPLC/multiple detectors,0.3699,assess
-HR-MAS NMR (High resolution magic angle spinning NMR),0.6287,assess
-HTS Catalysts screening for customers ,0.0,assess
-HTS screening service,0.0,assess
-Hyphenated chromatography systems- 3 & 4 dimensions,0.6268,assess
-ICP,96.82042000000001,adopt
-Increased use of nonchromatographic separation techniques for analysis,0.026549999999999997,assess
-Ion Chromatography,65.30160999999998,adopt
-Karl Fisher ,9.02828,trial
-Lab IoT ,243.48300999999998,adopt
-Lab on a chip,108.4921,adopt
-Lectin HPLC columns,4.26632,trial
-Li-7 qNMR,0.0,assess
-"library of ionizable lipids, ionizable polymers and targeting formulation for drug modalities screening and therapy",8.87829,trial
-Ligand/catalyst library for HTS plating,0.0,assess
-Liquid Crystal Elastomers (LCEs),8.93165,trial
-Loss on Drying,11.698349999999998,trial
-LR-qNMR (Benchtop NMR),5.636699999999999,trial
-Mass spectrometry imaging,61.147549999999995,adopt
-Mass spectromety high resolution,95.73055,adopt
-Mechano Chemical Synthesis,1.0708,assess
-Melting Point/Boiling Point,20.9574,trial
-Microbiological assay,267.13311,adopt
-Microscale thermophoresis,10.68593,trial
-Miniaturized chromatography,0.3396,assess
-Miniaturized water analysis,8.250210000000001,trial
-ML-assisted drug formulation screening,2.49438,assess
-"molecular machine, as well as nanomotor, nanoswitch etc.",209.63242,adopt
-mRNA sequencing and with modified base identification,52.29957000000001,adopt
-Multiplexed lateral flow assays,0.9139,assess
-Mxene: 2D materials beyond graphene,49.25775,adopt
-Nano/micro particles for biological applications,3662.8373500000002,adopt
-Near-infrared imaging,20.37369,trial
-Oligonucleotide CRMs,0.0,assess
-Optical Rotation,0.0,assess
-Organ-on chip,41.404900000000005,adopt
-Particle generation device (microfluidics/CIJ) with photoreactor/crosslinkable module,0.43128,assess
-PCR (quantitative and digital droplet),19.940720000000002,trial
-Phage Display,476.11026000000004,adopt
-Polymer electrolytes for solid-state lithium batteries,3.39138,assess
-"Position-specific isotope analysis (PSIA) NMR, combined with other techniques (IDMS, ICP-MS...)",0.39945,assess
-"Programmable materials (e.g., protein, DNA, PNA, mimic polymers)",6.4161,trial
-PROTAC,419.85298000000006,adopt
-Raman Spectroscopy,408.01909,adopt
-Refractive Index,0.0,assess
-Reusable sample preparation for liquid based samples,0.0,assess
-Sample preparation,210.78826,adopt
-SFC (supercritical fluid chromatography),26.85877,trial
-Similar database for all products of one portfolio,0.0,assess
-Si-NMR / Si-qNMR,9.259,trial
-SNIF-NMR (site-specific natural isotope fractionation NMR),0.11654999999999999,assess
-Specific Gravity/Density,0.0,assess
-Spectral Database,13.677809999999997,trial
-Sulfated Ash testing,3.2905499999999996,assess
-Surface Plasmon Resonance,280.41652,adopt
-Thermogravimetric Analysis,184.64784999999998,adopt
-Titration Assay,47.2348,adopt
-Turbidity,13.581179999999996,trial
+name,quadrant,ring,isNew,description
+Accelerated Chemical Reaction Optimization Using Multi-Task Learning,platforms,assess,False,
+Advanced hydrogel kits and bioink formulations for stem cell therapy,tools,trial,False,
+AI-directed formulation Screening/prediction platform,techniques,assess,False,
+Amino Acid Analysis,techniques,trial,False,
+Antibacterial Bio-Inspired Reagents,techniques,trial,False,
+Antibody drug conjugates and linkers,tools,adopt,False,
+Antibody purification ,techniques,adopt,False,
+Antisense technology,tools,adopt,False,
+Automation of laboratory procedures,techniques,assess,False,
+Biocatalysis,tools,adopt,False,
+Blockchain technology,tools,adopt,False,
+Catalyst screening for customers ,techniques,trial,False,
+Cell and Gene therapy QA,techniques,trial,False,
+Chiral columns technology/separation,platforms,trial,False,
+Commercialized Pillar array HPLC technology,techniques,assess,False,
+Copper free click chemistry based hydrogel reagents and kits,techniques,trial,False,
+Cryo-electron microscopy,tools,adopt,False,
+"Data Sharing in Chemistry, Mandating Structured Reaction Data",tools,trial,False,
+Designer receptors exclusively activated by designer drugs=DREADD,tools,adopt,False,
+deuterated CRMs,platforms,assess,False,
+Digital read out of reactive papers (strips),platforms,assess,False,
+Direct MS,platforms,assess,False,
+DNA-encoded library(DEL),tools,trial,False,
+Dugital Twin for the Pharmacetical Industry/Drug discovery/Fine chemical,techniques,trial,False,
+Emerging battery materials,tools,adopt,False,
+Enzymetic reaction/Enzyme Technology,tools,adopt,False,
+Food CRMs,techniques,trial,False,
+Formulation of pyrophoric reagents  ,platforms,trial,False,
+FTIR,tools,adopt,False,
+Gas Chromatography/multiple detectors,platforms,assess,False,
+Green Hydrogen,tools,adopt,False,
+Green solvents alternatives in battery manufacturing,techniques,trial,False,
+High Throughput Screening,tools,adopt,False,
+Homogeneous Time Resolved Fluorescence,techniques,trial,False,
+HPLC/multiple detectors,platforms,assess,False,
+HR-MAS NMR (High resolution magic angle spinning NMR),platforms,assess,False,
+HTS Catalysts screening for customers ,platforms,assess,False,
+HTS screening service,platforms,assess,False,
+Hyphenated chromatography systems- 3 & 4 dimensions,platforms,assess,False,
+ICP,tools,adopt,False,
+Increased use of nonchromatographic separation techniques for analysis,platforms,assess,False,
+Ion Chromatography,tools,adopt,False,
+Karl Fisher ,platforms,trial,False,
+Lab IoT ,tools,adopt,False,
+Lab on a chip,platforms,adopt,False,
+Lectin HPLC columns,platforms,trial,False,
+Li-7 qNMR,platforms,assess,False,
+"library of ionizable lipids, ionizable polymers and targeting formulation for drug modalities screening and therapy",techniques,trial,False,
+Ligand/catalyst library for HTS plating,platforms,assess,False,
+Liquid Crystal Elastomers (LCEs),techniques,trial,False,
+Loss on Drying,techniques,trial,False,
+LR-qNMR (Benchtop NMR),techniques,trial,False,
+Mass spectrometry imaging,tools,adopt,False,
+Mass spectromety high resolution,tools,adopt,False,
+Mechano Chemical Synthesis,techniques,assess,False,
+Melting Point/Boiling Point,platforms,trial,False,
+Microbiological assay,tools,adopt,False,
+Microscale thermophoresis,techniques,trial,False,
+Miniaturized chromatography,platforms,assess,False,
+Miniaturized water analysis,techniques,trial,False,
+ML-assisted drug formulation screening,techniques,assess,False,
+"molecular machine, as well as nanomotor, nanoswitch etc.",tools,adopt,False,
+mRNA sequencing and with modified base identification,tools,adopt,False,
+Multiplexed lateral flow assays,techniques,assess,False,
+Mxene: 2D materials beyond graphene,tools,adopt,False,
+Nano/micro particles for biological applications,tools,adopt,False,
+Near-infrared imaging,techniques,trial,False,
+Oligonucleotide CRMs,platforms,assess,False,
+Optical Rotation,platforms,assess,False,
+Organ-on chip,tools,adopt,False,
+Particle generation device (microfluidics/CIJ) with photoreactor/crosslinkable module,platforms,assess,False,
+PCR (quantitative and digital droplet),tools,trial,False,
+Phage Display,platforms,adopt,False,
+Polymer electrolytes for solid-state lithium batteries,techniques,assess,False,
+"Position-specific isotope analysis (PSIA) NMR, combined with other techniques (IDMS, ICP-MS...)",platforms,assess,False,
+"Programmable materials (e.g., protein, DNA, PNA, mimic polymers)",techniques,trial,False,
+PROTAC,tools,adopt,False,
+Raman Spectroscopy,tools,adopt,False,
+Refractive Index,platforms,assess,False,
+Reusable sample preparation for liquid based samples,platforms,assess,False,
+Sample preparation,tools,adopt,False,
+SFC (supercritical fluid chromatography),techniques,trial,False,
+Similar database for all products of one portfolio,platforms,assess,False,
+Si-NMR / Si-qNMR,techniques,trial,False,
+SNIF-NMR (site-specific natural isotope fractionation NMR),platforms,assess,False,
+Specific Gravity/Density,platforms,assess,False,
+Spectral Database,techniques,trial,False,
+Sulfated Ash testing,platforms,assess,False,
+Surface Plasmon Resonance,tools,adopt,False,
+Thermogravimetric Analysis,tools,adopt,False,
+Titration Assay,techniques,adopt,False,
+Turbidity,techniques,trial,False,

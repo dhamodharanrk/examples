@@ -1,93 +1,93 @@
-name,quadrant,ring,isNew,description
-Accelerated Chemical Reaction Optimization Using Multi-Task Learning,Long-term,Low,False,
-Advanced hydrogel kits and bioink formulations for stem cell therapy,Short-term,Medium,False,
-AI-directed formulation Screening/prediction platform,Medium-term,Low,False,
-Amino Acid Analysis,Medium-term,Medium,False,
-Antibacterial Bio-Inspired Reagents,Medium-term,Medium,False,
-Antibody drug conjugates and linkers,Short-term,High,False,
-Antibody purification ,Medium-term,High,False,
-Antisense technology,Short-term,High,False,
-Automation of laboratory procedures,Medium-term,Low,False,
-Biocatalysis,Short-term,High,False,
-Blockchain technology,Short-term,High,False,
-Catalyst screening for customers ,Medium-term,Medium,False,
-Cell and Gene therapy QA,Medium-term,Medium,False,
-Chiral columns technology/separation,Long-term,Medium,False,
-Commercialized Pillar array HPLC technology,Medium-term,Low,False,
-Copper free click chemistry based hydrogel reagents and kits,Medium-term,Medium,False,
-Cryo-electron microscopy,Short-term,High,False,
-"Data Sharing in Chemistry, Mandating Structured Reaction Data",Short-term,Medium,False,
-Designer receptors exclusively activated by designer drugs=DREADD,Short-term,High,False,
-deuterated CRMs,Long-term,Low,False,
-Digital read out of reactive papers (strips),Long-term,Low,False,
-Direct MS,Long-term,Low,False,
-DNA-encoded library(DEL),Short-term,Medium,False,
-Dugital Twin for the Pharmacetical Industry/Drug discovery/Fine chemical,Medium-term,Medium,False,
-Emerging battery materials,Short-term,High,False,
-Enzymetic reaction/Enzyme Technology,Short-term,High,False,
-Food CRMs,Medium-term,Medium,False,
-Formulation of pyrophoric reagents  ,Long-term,Medium,False,
-FTIR,Short-term,High,False,
-Gas Chromatography/multiple detectors,Long-term,Low,False,
-Green Hydrogen,Short-term,High,False,
-Green solvents alternatives in battery manufacturing,Medium-term,Medium,False,
-High Throughput Screening,Short-term,High,False,
-Homogeneous Time Resolved Fluorescence,Medium-term,Medium,False,
-HPLC/multiple detectors,Long-term,Low,False,
-HR-MAS NMR (High resolution magic angle spinning NMR),Long-term,Low,False,
-HTS Catalysts screening for customers ,Long-term,Low,False,
-HTS screening service,Long-term,Low,False,
-Hyphenated chromatography systems- 3 & 4 dimensions,Long-term,Low,False,
-ICP,Short-term,High,False,
-Increased use of nonchromatographic separation techniques for analysis,Long-term,Low,False,
-Ion Chromatography,Short-term,High,False,
-Karl Fisher ,Long-term,Medium,False,
-Lab IoT ,Short-term,High,False,
-Lab on a chip,Long-term,High,False,
-Lectin HPLC columns,Long-term,Medium,False,
-Li-7 qNMR,Long-term,Low,False,
-"library of ionizable lipids, ionizable polymers and targeting formulation for drug modalities screening and therapy",Medium-term,Medium,False,
-Ligand/catalyst library for HTS plating,Long-term,Low,False,
-Liquid Crystal Elastomers (LCEs),Medium-term,Medium,False,
-Loss on Drying,Medium-term,Medium,False,
-LR-qNMR (Benchtop NMR),Medium-term,Medium,False,
-Mass spectrometry imaging,Short-term,High,False,
-Mass spectromety high resolution,Short-term,High,False,
-Mechano Chemical Synthesis,Medium-term,Low,False,
-Melting Point/Boiling Point,Long-term,Medium,False,
-Microbiological assay,Short-term,High,False,
-Microscale thermophoresis,Medium-term,Medium,False,
-Miniaturized chromatography,Long-term,Low,False,
-Miniaturized water analysis,Medium-term,Medium,False,
-ML-assisted drug formulation screening,Medium-term,Low,False,
-"molecular machine, as well as nanomotor, nanoswitch etc.",Short-term,High,False,
-mRNA sequencing and with modified base identification,Short-term,High,False,
-Multiplexed lateral flow assays,Medium-term,Low,False,
-Mxene: 2D materials beyond graphene,Short-term,High,False,
-Nano/micro particles for biological applications,Short-term,High,False,
-Near-infrared imaging,Medium-term,Medium,False,
-Oligonucleotide CRMs,Long-term,Low,False,
-Optical Rotation,Long-term,Low,False,
-Organ-on chip,Short-term,High,False,
-Particle generation device (microfluidics/CIJ) with photoreactor/crosslinkable module,Long-term,Low,False,
-PCR (quantitative and digital droplet),Short-term,Medium,False,
-Phage Display,Long-term,High,False,
-Polymer electrolytes for solid-state lithium batteries,Medium-term,Low,False,
-"Position-specific isotope analysis (PSIA) NMR, combined with other techniques (IDMS, ICP-MS...)",Long-term,Low,False,
-"Programmable materials (e.g., protein, DNA, PNA, mimic polymers)",Medium-term,Medium,False,
-PROTAC,Short-term,High,False,
-Raman Spectroscopy,Short-term,High,False,
-Refractive Index,Long-term,Low,False,
-Reusable sample preparation for liquid based samples,Long-term,Low,False,
-Sample preparation,Short-term,High,False,
-SFC (supercritical fluid chromatography),Medium-term,Medium,False,
-Similar database for all products of one portfolio,Long-term,Low,False,
-Si-NMR / Si-qNMR,Medium-term,Medium,False,
-SNIF-NMR (site-specific natural isotope fractionation NMR),Long-term,Low,False,
-Specific Gravity/Density,Long-term,Low,False,
-Spectral Database,Medium-term,Medium,False,
-Sulfated Ash testing,Long-term,Low,False,
-Surface Plasmon Resonance,Short-term,High,False,
-Thermogravimetric Analysis,Short-term,High,False,
-Titration Assay,Medium-term,High,False,
-Turbidity,Medium-term,Medium,False,
+Technology Name,Impact Score,Impact
+Accelerated Chemical Reaction Optimization Using Multi-Task Learning,0.0,assess
+Advanced hydrogel kits and bioink formulations for stem cell therapy,20.91168,trial
+AI-directed formulation Screening/prediction platform,2.33568,assess
+Amino Acid Analysis,28.338429999999995,trial
+Antibacterial Bio-Inspired Reagents,7.75017,trial
+Antibody drug conjugates and linkers,204.09578,adopt
+Antibody purification ,70.3188,adopt
+Antisense technology,274.4433,adopt
+Automation of laboratory procedures,3.06765,assess
+Biocatalysis,262.99404,adopt
+Blockchain technology,3606.9645400000004,adopt
+Catalyst screening for customers ,12.506699999999999,trial
+Cell and Gene therapy QA,21.61225,trial
+Chiral columns technology/separation,30.314689999999995,trial
+Commercialized Pillar array HPLC technology,1.5779999999999998,assess
+Copper free click chemistry based hydrogel reagents and kits,17.096999999999998,trial
+Cryo-electron microscopy,351.04889000000003,adopt
+"Data Sharing in Chemistry, Mandating Structured Reaction Data",36.38878,trial
+Designer receptors exclusively activated by designer drugs=DREADD,103.245,adopt
+deuterated CRMs,0.0,assess
+Digital read out of reactive papers (strips),0.85503,assess
+Direct MS,1.22095,assess
+DNA-encoded library(DEL),34.34519000000001,trial
+Dugital Twin for the Pharmacetical Industry/Drug discovery/Fine chemical,6.300350000000001,trial
+Emerging battery materials,262.34599999999995,adopt
+Enzymetic reaction/Enzyme Technology,107.70228,adopt
+Food CRMs,15.8877,trial
+Formulation of pyrophoric reagents  ,3.9248,trial
+FTIR,365.8728300000001,adopt
+Gas Chromatography/multiple detectors,0.48995,assess
+Green Hydrogen,1522.80202,adopt
+Green solvents alternatives in battery manufacturing,4.0065,trial
+High Throughput Screening,698.8974000000001,adopt
+Homogeneous Time Resolved Fluorescence,23.27352,trial
+HPLC/multiple detectors,0.3699,assess
+HR-MAS NMR (High resolution magic angle spinning NMR),0.6287,assess
+HTS Catalysts screening for customers ,0.0,assess
+HTS screening service,0.0,assess
+Hyphenated chromatography systems- 3 & 4 dimensions,0.6268,assess
+ICP,96.82042000000001,adopt
+Increased use of nonchromatographic separation techniques for analysis,0.026549999999999997,assess
+Ion Chromatography,65.30160999999998,adopt
+Karl Fisher ,9.02828,trial
+Lab IoT ,243.48300999999998,adopt
+Lab on a chip,108.4921,adopt
+Lectin HPLC columns,4.26632,trial
+Li-7 qNMR,0.0,assess
+"library of ionizable lipids, ionizable polymers and targeting formulation for drug modalities screening and therapy",8.87829,trial
+Ligand/catalyst library for HTS plating,0.0,assess
+Liquid Crystal Elastomers (LCEs),8.93165,trial
+Loss on Drying,11.698349999999998,trial
+LR-qNMR (Benchtop NMR),5.636699999999999,trial
+Mass spectrometry imaging,61.147549999999995,adopt
+Mass spectromety high resolution,95.73055,adopt
+Mechano Chemical Synthesis,1.0708,assess
+Melting Point/Boiling Point,20.9574,trial
+Microbiological assay,267.13311,adopt
+Microscale thermophoresis,10.68593,trial
+Miniaturized chromatography,0.3396,assess
+Miniaturized water analysis,8.250210000000001,trial
+ML-assisted drug formulation screening,2.49438,assess
+"molecular machine, as well as nanomotor, nanoswitch etc.",209.63242,adopt
+mRNA sequencing and with modified base identification,52.29957000000001,adopt
+Multiplexed lateral flow assays,0.9139,assess
+Mxene: 2D materials beyond graphene,49.25775,adopt
+Nano/micro particles for biological applications,3662.8373500000002,adopt
+Near-infrared imaging,20.37369,trial
+Oligonucleotide CRMs,0.0,assess
+Optical Rotation,0.0,assess
+Organ-on chip,41.404900000000005,adopt
+Particle generation device (microfluidics/CIJ) with photoreactor/crosslinkable module,0.43128,assess
+PCR (quantitative and digital droplet),19.940720000000002,trial
+Phage Display,476.11026000000004,adopt
+Polymer electrolytes for solid-state lithium batteries,3.39138,assess
+"Position-specific isotope analysis (PSIA) NMR, combined with other techniques (IDMS, ICP-MS...)",0.39945,assess
+"Programmable materials (e.g., protein, DNA, PNA, mimic polymers)",6.4161,trial
+PROTAC,419.85298000000006,adopt
+Raman Spectroscopy,408.01909,adopt
+Refractive Index,0.0,assess
+Reusable sample preparation for liquid based samples,0.0,assess
+Sample preparation,210.78826,adopt
+SFC (supercritical fluid chromatography),26.85877,trial
+Similar database for all products of one portfolio,0.0,assess
+Si-NMR / Si-qNMR,9.259,trial
+SNIF-NMR (site-specific natural isotope fractionation NMR),0.11654999999999999,assess
+Specific Gravity/Density,0.0,assess
+Spectral Database,13.677809999999997,trial
+Sulfated Ash testing,3.2905499999999996,assess
+Surface Plasmon Resonance,280.41652,adopt
+Thermogravimetric Analysis,184.64784999999998,adopt
+Titration Assay,47.2348,adopt
+Turbidity,13.581179999999996,trial
